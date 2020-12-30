@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/workspace/cornerness_harris/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/cornerness_harris.dir/src/cornerness_harris.cpp.o -c /home/workspace/cornerness_harris/src/cornerness_harris.cpp",
+  "file": "/home/workspace/cornerness_harris/src/cornerness_harris.cpp"
+}
+]
